@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * @brief GhostTag - Autonomous Pocket Anti-Stalking & Hidden Surveillance Detector
- * @version 1.0.0 (Grant MVP Release)
+ * @version 1.0.0 (Initial Open Source Release)
  * @license CERN-OHL-P-2.0 / MIT
  */
 

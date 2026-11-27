@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+*.bin
+*.elf
+*.o
+*.a
+*.zip
+hardware/
+scripts/
