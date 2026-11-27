@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "filename": "ghosttag.kicad_pro",
+    "version": 1
+  },
+  "project": {
+    "general": {
+      "name": "GhostTag"
+    }
+  },
+  "schematic": {
+    "drawing": {
+      "default_line_thickness": 0.1524
+    }
+  },
+  "board": {
+    "design_settings": {
+      "rules": {
+        "min_clearance": 0.15,
+        "min_track_width": 0.2,
+        "min_via_annular_width": 0.15,
+        "min_via_diameter": 0.4
+      }
+    }
+  }
+}

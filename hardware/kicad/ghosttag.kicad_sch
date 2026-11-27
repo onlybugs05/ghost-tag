@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+  (uuid 8f42a981-d72b-4277-a892-0b192803b9f1)
+  (paper "A4")
+  (title_block
+    (title "GhostTag - Autonomous Anti-Stalking Sentinel")
+    (date "2026-11-27")
+    (rev "v1.0")
+    (company "GhostTag Open Source Hardware Project")
+    (comment 1 "License: CERN-OHL-P-2.0")
+    (comment 2 "Target: JLCPCB 2-Layer Standard FR-4")
+  )
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
